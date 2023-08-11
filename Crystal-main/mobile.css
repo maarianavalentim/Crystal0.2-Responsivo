@@ -1,0 +1,18 @@
+#icone{
+    color: white;
+    font-size: 30px;
+}
+#menu-nav{
+    display: none;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: #830000;
+    position: absolute;
+    top: 80px;
+    left: 0px;
+    height: 300px;
+    width: 100%;
+}
+.menu-barras{
+    display: initial;
+}
